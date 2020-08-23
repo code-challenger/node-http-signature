@@ -73,5 +73,3 @@ https.createServer(options, function (req, res) {
 ## License
 
 MIT.
-
-## Bugs
